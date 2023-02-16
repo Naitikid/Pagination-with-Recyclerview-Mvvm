@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyPostApiCallingTest</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+    <string name="displayname">User Name</string>
+    <string name="user_email">User Email</string>
+    <string name="loading">loading</string>
+</resources>
